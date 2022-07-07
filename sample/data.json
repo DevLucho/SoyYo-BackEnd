@@ -1,0 +1,137 @@
+[
+    {
+        "entityId": "1",
+        "name": "Seguro Continental",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "2",
+        "name": "ALLIANZ",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "3",
+        "name": "ASEGURADORA SOLIDARIA DE COLOMBIA",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "4",
+        "name": "AXA COLPATRIA",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "5",
+        "name": "COLMENA SEGUROS",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "6",
+        "name": "MAPFRE",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "7",
+        "name": "METLIFE",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "8",
+        "name": "ZURICH",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "9",
+        "name": "POSITIVA COMPAÑÍA",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "10",
+        "name": "SEGUREXPO",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "11",
+        "name": "SOLUNION",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "15",
+        "name": "BMI",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "20",
+        "name": "CARDIF",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "18",
+        "name": "HDI",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    },
+    {
+        "entityId": "17",
+        "name": "GLOBAL",
+        "identificationNumber": 123456789,
+        "expirationDate": "2024-05-03",
+        "contactName": "Margarita",
+        "contactEmail": "margarita@gmail.com",
+        "logo": "https://soyyo-dev-entity-logos.s3.amazonaws.com/logo_entidad_seguros_continental.png"
+    }
+]
