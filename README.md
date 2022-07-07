@@ -12,7 +12,7 @@
 > npm run start
 
 ```
-- http://localhost:8080/
+- [POST] http://localhost:8080/api/entities/filter
 
 ## Contenedor
 ```
