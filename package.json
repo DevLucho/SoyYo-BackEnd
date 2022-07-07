@@ -1,0 +1,32 @@
+{
+  "name": "soyyo-backend",
+  "version": "1.0.0",
+  "description": "Test ingreso soyyo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLucho/SoyYo-BackEnd.git"
+  },
+  "author": "Luis David Huertas Redondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevLucho/SoyYo-BackEnd/issues"
+  },
+  "homepage": "https://github.com/DevLucho/SoyYo-BackEnd#readme",
+  "dependencies": {
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  }
+}
